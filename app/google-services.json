@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685185468368",
+    "firebase_url": "https://chat-app-bb193.firebaseio.com",
+    "project_id": "chat-app-bb193",
+    "storage_bucket": "chat-app-bb193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685185468368:android:bcc62b24f215671e5e5bd5",
+        "android_client_info": {
+          "package_name": "com.rstudios.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685185468368-6jh4kkiej518a3982705oca227v9d423.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XE9_5ZYmN9Jg9kB4oGrkFnHKEiNm8YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685185468368-6jh4kkiej518a3982705oca227v9d423.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
